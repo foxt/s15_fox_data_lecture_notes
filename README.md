@@ -6,3 +6,13 @@
 
 -This is a semenar class. I'll give lots of presentations
 
+-Big Data SW Engineering.
+
+
+When you think about big data... 
+
+social networks
+
+data analytics, sampling, stats
+
+storage
